@@ -1,2 +1,5 @@
 # Sentiment-Analysis
-Sentiment analysis using lstm's on keras.
+Sentiment analysis keras on imdb reviews.
+
+### Dataset:
+https://www.kaggle.com/c/word2vec-nlp-tutorial/data
